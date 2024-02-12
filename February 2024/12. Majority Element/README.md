@@ -3,5 +3,5 @@
 
 ## Algorithm
 Boyer-Moore Majority Voting Algorithm
-    - [Wikipedia](https://en.wikipedia.org/wiki/Boyer–Moore_majority_vote_algorithm)
-    - [GeeksForGeeks](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)
+ - [Wikipedia](https://en.wikipedia.org/wiki/Boyer–Moore_majority_vote_algorithm)
+ - [GeeksForGeeks](https://www.geeksforgeeks.org/boyer-moore-majority-voting-algorithm/)
