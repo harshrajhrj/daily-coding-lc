@@ -4,6 +4,9 @@
 ## Algorithm
 *Coming soon*
 
+## Tutorial
+[Intuition](https://youtu.be/5UWEVMg10rY?si=tBMEIirg6IE1ZBPe)
+
 ## Tags
  - Linked List
  - Hash Table
